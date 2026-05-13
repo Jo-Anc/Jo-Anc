@@ -4,6 +4,7 @@
 
 ### 🎓 MSc Student in Management (MATIS) @ Sapienza University of Rome
 Bsc in Economics & Finance- International cooperation
+
 *The greatest obstacle to discovery is not ignorance-—it is the illusion of knowledge.*
 
 ---
@@ -34,5 +35,4 @@ In the process of learning
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuamoltio68@gmail.com)
 
 <p align="center"> 
-  <i>"Precision in the kitchen, rigor in the data."</i>
-</p>
+  
