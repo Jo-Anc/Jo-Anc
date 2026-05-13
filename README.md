@@ -1,37 +1,30 @@
 # Hi there, I'm Joshua Moltio Legaspi! 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?user=Jo-Anc&label=Profile%20views&color=0e75b6&style=flat" alt="Jo-Anc" />
-</p>
+
 
 ### 🎓 MSc Student in Management (MATIS) @ Sapienza University of Rome
-*Focused on bridging the gap between Management Strategy and Technical Implementation.*
+Bsc in Economics & Finance- International cooperation
+*The greatest obstacle to discovery is not ignorance-—it is the illusion of knowledge.*
 
 ---
 
-### 🚀 About Me
-- 🔭 **Currently working on:** Mastering Python for Credit Risk Analysis.
-- 🌱 **Learning:** SQL, Financial Modeling, and Data Visualization.
-- ⚡ **Operational Grit:** Former Pizza Chef turned Data Enthusiast. I thrive under pressure and love process optimization.
-- 🎯 **Goal:** Graduate Business Analyst Intern @ American Express.
+###  About Me
+I consider myself determined, curious, and eager to grow, with the ambition to learn from experienced professionals.
+I am looking for internship and entry-level opportunities to start my professional journey as analyst
+Strong interest in analytics and passionate to turn complex datasets into clear vision.
+
+
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
+In the process of learning
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jo-Anc&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-Anc&layout=compact&theme=radical" />
 </p>
 
 ---
