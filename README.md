@@ -1,4 +1,6 @@
-# Hi there, I'm Joshua Moltio Legaspi! 👋
+# Hi there, I'm Joshua Moltio Legaspi! 
+
+Thanks for visiting my site
 
 
 
@@ -10,9 +12,8 @@ Bsc in Economics & Finance- International cooperation
 ---
 
 ###  About Me
-I consider myself determined, curious, and eager to grow, with the ambition to learn from experienced professionals.
-I am looking for internship and entry-level opportunities to start my professional journey as analyst
-Strong interest in analytics and passionate to turn complex datasets into clear vision.
+
+Interested in Pool,Chess,Cali, and an Internship ofc
 
 
 
@@ -22,12 +23,13 @@ Strong interest in analytics and passionate to turn complex datasets into clear 
 In the process of learning
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-</p>
 
+</p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 ---
 
 ### 📫 Connect with me
