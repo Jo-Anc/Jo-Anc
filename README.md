@@ -34,6 +34,9 @@ Decent at
   </p>
   
 ---
+### Certificates
+
+Google Data Analytics Professional Certificate
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-moltio-legaspi-a69358187/)
