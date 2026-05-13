@@ -14,7 +14,7 @@ Bsc in Economics & Finance- International cooperation
 
 ###  About Me
 
-Interested in 8Pool, Chess, Cali, and an Internship ofc
+Interested in 8Pool, Chess, Cali, and an **Internship ofc**
 
 
 
