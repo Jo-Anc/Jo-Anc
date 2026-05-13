@@ -5,7 +5,7 @@ Thanks for visiting my site
 This profile serves as a live demonstration of building the bricks of my career by stacking management strategy, financial rigor, and technical skills.
 
 
-###  MSc Student in Management (MATIS) @ Sapienza University of Rome
+###  MSc Student in Management (MATIS) @ La Sapienza Università degli studi di Roma
 Bsc in Economics & Finance- International cooperation
 
 *The greatest obstacle to discovery is not ignorance-—it is the illusion of knowledge.*
