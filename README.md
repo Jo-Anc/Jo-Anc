@@ -13,7 +13,7 @@ Bsc in Economics & Finance- International cooperation
 
 ###  About Me
 
-Interested in Pool,Chess,Cali, and an Internship ofc
+Interested in 8Pool, Chess, Cali, and an Internship ofc
 
 
 
@@ -31,6 +31,7 @@ Decent at
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
   </p>
+  
 ---
 
 ### 📫 Connect with me
